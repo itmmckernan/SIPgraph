@@ -1,0 +1,36 @@
+Material,Status,Link,Notes,Valence Energy Level,Conduction Energy Level,Band Gap
+CeO2,✔️,6237521-fig-1-source-large.gif (820×678) (ieee.org),from paper,4.2,7.5,3.3
+TiO2,✔️,6237521-fig-1-source-large.gif (820×678) (ieee.org),from paper,4.2,7.4,3.2
+PI,✔️,6237521-fig-1-source-large.gif (820×678) (ieee.org),from paper,1.4,8.5,7.1
+HfO2,✔️,https://docs.google.com/drawings/d/1zVI9zm6GzZJLjpmU53cOMxIQEU41wNzmOsW3Oe7a_a4/edit,nikhil,2.4,8.4,6
+AIN,✔️,https://docs.google.com/drawings/d/1zVI9zm6GzZJLjpmU53cOMxIQEU41wNzmOsW3Oe7a_a4/edit,nikhil,2.8,6.2,3.4
+Bathocuproine,✔️,https://docs.google.com/drawings/d/1zVI9zm6GzZJLjpmU53cOMxIQEU41wNzmOsW3Oe7a_a4/edit,nikhil,3.5,7,3.5
+np-ZnOfxp,❌,,could not find valence and conduction values online,,,0
+WOx,✔️,https://docs.google.com/drawings/d/1zVI9zm6GzZJLjpmU53cOMxIQEU41wNzmOsW3Oe7a_a4/edit,nikhil,3.55,6.65,3.1
+A-IGZO,✔️,Syna's Drawings,,4.3,8.01,3.71
+a-AI203,✔️,Syna's Drawings,aka AlO so not sure whuch one is right,3.6,10.6,7
+a-SiO2,❌,,could not find valence and conduction values online,,,0
+Indium Gallium Zinc Oxide (IGZO),✔️,Syna's Drawings,same as a-IGZO,4.3,8.01,3.71
+"[6,6]-Phenyl C61 butyric acid methyl ester ([60]PCBM)",✔️,Kavita's Drawings,,2.2,4.2,2
+SnO2,✔️,Kavita's Drawings,,3.2,6.8,3.6
+BPhen,✔️,Syna's Drawings,,3,6.4,3.4
+beta-Ga2O3,✔️,Kavita's Drawings,,3.06,7.76,4.7
+GaN,✔️,Kavita's Drawings,,0.8,4.2,3.4
+Parylene-N,❌,,,,,0
+Parylene-C,❌,,,,,0
+C60,✔️,Ian McKernan - Google Drawings,,4.5,6.2,1.7
+TPBi,✔️,Ian McKernan - Google Drawings,,2.75,6.2,3.45
+PBD,✔️,Diagram Link,,2.4,6.2,3.8
+SiN,✔️,Diagram Link,,2.1,7.4,5.3
+Al2O3,✔️,Diagram Link,,1,9.8,8.8
+Nb2O5,✔️,Diagram Link,Not as sure about energy values,3.7,7.3,3.7
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Symbols,,,,,,
+✔️,⌛,❌,,,,
