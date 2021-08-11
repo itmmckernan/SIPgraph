@@ -10,7 +10,10 @@ spreadsheet['Valence Energy Level'] = spreadsheet['Valence Energy Level'] * -1
 spreadsheet['Conduction Energy Level'] = spreadsheet['Conduction Energy Level'] * -1
 spreadsheet.reset_index(inplace=True)
 fig = go.Figure()
-annotationList = []
+fig.update_layout(margin=dict(t=150))
+
+annotationList = [go.Annotation(x=.1, y=0, text='Evacuum', showarrow=False)]
+
 for index, row in spreadsheet.iterrows():
     row = row[1:]
     fig.add_trace(go.Box(y=[row[1], row[2]], name=row[0]))
