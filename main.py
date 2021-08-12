@@ -20,6 +20,9 @@ for index, row in spreadsheet.iterrows():
     print(dict(x=index, y=float(row[1])+.15, text=str(row[1]*-1), showarrow=False))
     annotationList.append(go.Annotation(x=index, y=row[1]+.15, text=str(row[1]*-1), showarrow=False))
     annotationList.append(go.Annotation(x=index, y=row[2]-.15, text=str(row[2]*-1), showarrow=False))
+    if row[0] == 'IGZO':
+        annotationList.append(go.Annotation(x=index, y=row[1] + .3, text='Conduction Band', showarrow=True, ax=-45, ay=-150, arrowwidth=3))
+        annotationList.append(go.Annotation(x=index, y=row[2] - .3, text='Valence Band', showarrow=True, ax=45, ay=150, arrowwidth=3))
 
 
 fig.update_layout(
